@@ -1,9 +1,401 @@
-productId,name,description
-101,Wireless Mouse,Ergonomic wireless mouse with adjustable DPI.
-102,Mechanical Keyboard,RGB mechanical keyboard with customizable keys.
-103,Laptop Stand,Adjustable aluminum laptop stand for better ergonomics.
-201,USB-C Charger,Fast charging USB-C adapter with multiple ports.
-301,Monitor Arm,Adjustable monitor arm for dual screens.
-302,Webcam,1080p webcam with built-in microphone.
-303,Gaming Headset,Comfortable gaming headset with surround sound.
-501,Portable SSD,High-speed portable SSD with 1TB capacity.
+productId	name	description
+104	Bluetooth Speaker	RGB mechanical keyboard with customizable keys.
+105	Bluetooth Speaker	Ergonomic gaming chair with lumbar support.
+106	Monitor Arm	High-speed portable solid-state drive with large capacity.
+107	Portable SSD	Compact tablet with a high-resolution display.
+108	Bluetooth Speaker	Ergonomic wireless mouse with adjustable DPI.
+109	Router	Ergonomic gaming chair with lumbar support.
+110	Webcam	Compact tablet with a high-resolution display.
+111	Monitor Arm	High-speed wireless router with strong signal coverage.
+112	Gaming Headset	1080p webcam with built-in microphone.
+113	USB-C Charger	High-performance smartphone with 5G connectivity.
+114	Wireless Earbuds	Comfortable gaming headset with surround sound.
+115	Monitor Arm	High-speed wireless router with strong signal coverage.
+116	Wireless Mouse	High-performance smartphone with 5G connectivity.
+117	Webcam	1080p webcam with built-in microphone.
+118	Smartwatch	High-speed wireless router with strong signal coverage.
+119	Smartphone	1080p webcam with built-in microphone.
+120	Webcam	Ergonomic wireless mouse with adjustable DPI.
+121	Monitor Arm	Noise-cancelling wireless earbuds with long battery life.
+122	Gaming Headset	RGB mechanical keyboard with customizable keys.
+123	Smartphone	1080p webcam with built-in microphone.
+124	Bluetooth Speaker	Ergonomic wireless mouse with adjustable DPI.
+125	Webcam	Ergonomic gaming chair with lumbar support.
+126	Portable SSD	Adjustable monitor arm for dual screens.
+127	Monitor Arm	Fast charging USB-C adapter with multiple ports.
+128	Smartphone	Noise-cancelling wireless earbuds with long battery life.
+129	Smartphone	Fast charging USB-C adapter with multiple ports.
+130	Tablet	High-speed wireless router with strong signal coverage.
+131	Tablet	Wearable smartwatch with health tracking features.
+132	Mechanical Keyboard	Comfortable gaming headset with surround sound.
+133	Portable SSD	Adjustable monitor arm for dual screens.
+134	Router	Fast charging USB-C adapter with multiple ports.
+135	Laptop	Wearable smartwatch with health tracking features.
+136	Laptop Stand	High-performance smartphone with 5G connectivity.
+137	Webcam	Adjustable monitor arm for dual screens.
+138	Laptop Stand	RGB mechanical keyboard with customizable keys.
+139	Wireless Earbuds	Compact tablet with a high-resolution display.
+140	Tablet	Fast charging USB-C adapter with multiple ports.
+141	Laptop	High-speed portable solid-state drive with large capacity.
+142	Tablet	Adjustable aluminum laptop stand for better ergonomics.
+143	Webcam	High-performance smartphone with 5G connectivity.
+144	Wireless Mouse	Adjustable monitor arm for dual screens.
+145	Webcam	High-speed wireless router with strong signal coverage.
+146	Bluetooth Speaker	Noise-cancelling wireless earbuds with long battery life.
+147	USB-C Charger	1080p webcam with built-in microphone.
+148	Portable SSD	Fast charging USB-C adapter with multiple ports.
+149	USB-C Charger	Fast charging USB-C adapter with multiple ports.
+150	Monitor Arm	Compact tablet with a high-resolution display.
+151	Smartwatch	Ergonomic gaming chair with lumbar support.
+152	Portable SSD	Comfortable gaming headset with surround sound.
+153	Mechanical Keyboard	Fast charging USB-C adapter with multiple ports.
+154	Webcam	High-speed portable solid-state drive with large capacity.
+155	Portable SSD	Portable Bluetooth speaker with deep bass.
+156	Portable SSD	Wearable smartwatch with health tracking features.
+157	Smartphone	Noise-cancelling wireless earbuds with long battery life.
+158	Gaming Chair	Compact tablet with a high-resolution display.
+159	Smartphone	Portable Bluetooth speaker with deep bass.
+160	Gaming Chair	Ergonomic gaming chair with lumbar support.
+161	USB-C Charger	Lightweight laptop with powerful specifications.
+162	Laptop	Adjustable monitor arm for dual screens.
+163	USB-C Charger	Lightweight laptop with powerful specifications.
+164	Tablet	Ergonomic gaming chair with lumbar support.
+165	Bluetooth Speaker	High-speed portable solid-state drive with large capacity.
+166	Wireless Mouse	Portable Bluetooth speaker with deep bass.
+167	Gaming Headset	Adjustable monitor arm for dual screens.
+168	Portable SSD	Noise-cancelling wireless earbuds with long battery life.
+169	Laptop Stand	Noise-cancelling wireless earbuds with long battery life.
+170	Gaming Headset	Portable Bluetooth speaker with deep bass.
+171	Bluetooth Speaker	High-speed wireless router with strong signal coverage.
+172	Webcam	Adjustable monitor arm for dual screens.
+173	Smartwatch	Compact tablet with a high-resolution display.
+174	Smartwatch	Adjustable monitor arm for dual screens.
+175	Smartphone	Portable Bluetooth speaker with deep bass.
+176	Monitor Arm	Noise-cancelling wireless earbuds with long battery life.
+177	Portable SSD	RGB mechanical keyboard with customizable keys.
+178	Mechanical Keyboard	Adjustable monitor arm for dual screens.
+179	Smartphone	High-speed portable solid-state drive with large capacity.
+180	Tablet	Ergonomic wireless mouse with adjustable DPI.
+181	Gaming Headset	High-speed wireless router with strong signal coverage.
+182	Gaming Headset	High-performance smartphone with 5G connectivity.
+183	Smartphone	High-speed wireless router with strong signal coverage.
+184	Monitor Arm	High-speed wireless router with strong signal coverage.
+185	Wireless Mouse	High-performance smartphone with 5G connectivity.
+186	Smartphone	Fast charging USB-C adapter with multiple ports.
+187	USB-C Charger	Ergonomic wireless mouse with adjustable DPI.
+188	Portable SSD	Fast charging USB-C adapter with multiple ports.
+189	Webcam	Portable Bluetooth speaker with deep bass.
+190	Bluetooth Speaker	Ergonomic wireless mouse with adjustable DPI.
+191	Monitor Arm	Portable Bluetooth speaker with deep bass.
+192	Webcam	High-speed portable solid-state drive with large capacity.
+193	Laptop	Ergonomic wireless mouse with adjustable DPI.
+194	Mechanical Keyboard	Adjustable aluminum laptop stand for better ergonomics.
+195	Wireless Mouse	Fast charging USB-C adapter with multiple ports.
+196	Portable SSD	High-speed portable solid-state drive with large capacity.
+197	Wireless Mouse	Adjustable monitor arm for dual screens.
+198	Bluetooth Speaker	High-speed portable solid-state drive with large capacity.
+199	Wireless Earbuds	Ergonomic gaming chair with lumbar support.
+200	USB-C Charger	Lightweight laptop with powerful specifications.
+201	Router	Adjustable monitor arm for dual screens.
+202	Monitor Arm	Fast charging USB-C adapter with multiple ports.
+203	Monitor Arm	Portable Bluetooth speaker with deep bass.
+204	Smartwatch	Adjustable aluminum laptop stand for better ergonomics.
+205	Laptop Stand	High-speed wireless router with strong signal coverage.
+206	Smartphone	Adjustable aluminum laptop stand for better ergonomics.
+207	Tablet	RGB mechanical keyboard with customizable keys.
+208	Router	Ergonomic wireless mouse with adjustable DPI.
+209	Portable SSD	1080p webcam with built-in microphone.
+210	Mechanical Keyboard	Comfortable gaming headset with surround sound.
+211	Laptop	Noise-cancelling wireless earbuds with long battery life.
+212	Smartphone	Fast charging USB-C adapter with multiple ports.
+213	Mechanical Keyboard	Wearable smartwatch with health tracking features.
+214	Router	Ergonomic wireless mouse with adjustable DPI.
+215	Tablet	High-speed wireless router with strong signal coverage.
+216	Monitor Arm	Comfortable gaming headset with surround sound.
+217	Wireless Earbuds	Fast charging USB-C adapter with multiple ports.
+218	Wireless Mouse	Ergonomic gaming chair with lumbar support.
+219	Wireless Earbuds	High-performance smartphone with 5G connectivity.
+220	Tablet	Comfortable gaming headset with surround sound.
+221	Tablet	High-speed portable solid-state drive with large capacity.
+222	Smartphone	High-performance smartphone with 5G connectivity.
+223	Gaming Chair	1080p webcam with built-in microphone.
+224	Bluetooth Speaker	Comfortable gaming headset with surround sound.
+225	Wireless Mouse	Ergonomic wireless mouse with adjustable DPI.
+226	Laptop Stand	Compact tablet with a high-resolution display.
+227	USB-C Charger	Noise-cancelling wireless earbuds with long battery life.
+228	Laptop Stand	Comfortable gaming headset with surround sound.
+229	Wireless Earbuds	Compact tablet with a high-resolution display.
+230	Laptop Stand	1080p webcam with built-in microphone.
+231	Portable SSD	Wearable smartwatch with health tracking features.
+232	Smartphone	Adjustable aluminum laptop stand for better ergonomics.
+233	Bluetooth Speaker	Lightweight laptop with powerful specifications.
+234	Gaming Chair	Ergonomic wireless mouse with adjustable DPI.
+235	Smartwatch	Fast charging USB-C adapter with multiple ports.
+236	Portable SSD	Adjustable monitor arm for dual screens.
+237	Wireless Mouse	Adjustable monitor arm for dual screens.
+238	Smartphone	1080p webcam with built-in microphone.
+239	Wireless Earbuds	Fast charging USB-C adapter with multiple ports.
+240	Laptop Stand	Adjustable monitor arm for dual screens.
+241	Portable SSD	1080p webcam with built-in microphone.
+242	Bluetooth Speaker	High-speed portable solid-state drive with large capacity.
+243	Router	High-speed portable solid-state drive with large capacity.
+244	Gaming Chair	High-speed portable solid-state drive with large capacity.
+245	Laptop Stand	Ergonomic wireless mouse with adjustable DPI.
+246	Smartwatch	Fast charging USB-C adapter with multiple ports.
+247	Laptop Stand	Adjustable monitor arm for dual screens.
+248	Laptop	Fast charging USB-C adapter with multiple ports.
+249	Tablet	Ergonomic wireless mouse with adjustable DPI.
+250	Portable SSD	High-speed portable solid-state drive with large capacity.
+251	Smartwatch	Noise-cancelling wireless earbuds with long battery life.
+252	Smartwatch	Fast charging USB-C adapter with multiple ports.
+253	Smartphone	Ergonomic wireless mouse with adjustable DPI.
+254	Tablet	Portable Bluetooth speaker with deep bass.
+255	Portable SSD	High-performance smartphone with 5G connectivity.
+256	Wireless Mouse	Lightweight laptop with powerful specifications.
+257	Laptop	Compact tablet with a high-resolution display.
+258	Gaming Headset	High-speed portable solid-state drive with large capacity.
+259	Bluetooth Speaker	Lightweight laptop with powerful specifications.
+260	Bluetooth Speaker	Comfortable gaming headset with surround sound.
+261	Smartwatch	Ergonomic gaming chair with lumbar support.
+262	Laptop Stand	Compact tablet with a high-resolution display.
+263	Portable SSD	Ergonomic gaming chair with lumbar support.
+264	Tablet	High-performance smartphone with 5G connectivity.
+265	Smartwatch	Fast charging USB-C adapter with multiple ports.
+266	Bluetooth Speaker	Ergonomic wireless mouse with adjustable DPI.
+267	Tablet	High-performance smartphone with 5G connectivity.
+268	Gaming Headset	Portable Bluetooth speaker with deep bass.
+269	Smartwatch	Ergonomic gaming chair with lumbar support.
+270	USB-C Charger	Adjustable aluminum laptop stand for better ergonomics.
+271	Gaming Headset	High-performance smartphone with 5G connectivity.
+272	Tablet	High-speed wireless router with strong signal coverage.
+273	Wireless Mouse	Adjustable monitor arm for dual screens.
+274	Smartwatch	Ergonomic wireless mouse with adjustable DPI.
+275	Smartwatch	Wearable smartwatch with health tracking features.
+276	Router	High-speed portable solid-state drive with large capacity.
+277	Laptop Stand	Adjustable aluminum laptop stand for better ergonomics.
+278	Smartwatch	1080p webcam with built-in microphone.
+279	Gaming Headset	High-speed portable solid-state drive with large capacity.
+280	Gaming Chair	Fast charging USB-C adapter with multiple ports.
+281	USB-C Charger	Adjustable aluminum laptop stand for better ergonomics.
+282	Smartwatch	Noise-cancelling wireless earbuds with long battery life.
+283	Wireless Mouse	Adjustable aluminum laptop stand for better ergonomics.
+284	Webcam	Wearable smartwatch with health tracking features.
+285	Webcam	RGB mechanical keyboard with customizable keys.
+286	Gaming Chair	High-speed portable solid-state drive with large capacity.
+287	Monitor Arm	High-speed portable solid-state drive with large capacity.
+288	Laptop	1080p webcam with built-in microphone.
+289	Wireless Mouse	Compact tablet with a high-resolution display.
+290	Laptop Stand	Ergonomic wireless mouse with adjustable DPI.
+291	Portable SSD	Compact tablet with a high-resolution display.
+292	Monitor Arm	Ergonomic wireless mouse with adjustable DPI.
+293	Gaming Chair	High-speed portable solid-state drive with large capacity.
+294	Smartphone	High-performance smartphone with 5G connectivity.
+295	Laptop	Portable Bluetooth speaker with deep bass.
+296	Portable SSD	1080p webcam with built-in microphone.
+297	Smartwatch	Wearable smartwatch with health tracking features.
+298	Mechanical Keyboard	Comfortable gaming headset with surround sound.
+299	USB-C Charger	Adjustable monitor arm for dual screens.
+300	Laptop	Noise-cancelling wireless earbuds with long battery life.
+301	Bluetooth Speaker	High-speed wireless router with strong signal coverage.
+302	Wireless Earbuds	Compact tablet with a high-resolution display.
+303	USB-C Charger	Comfortable gaming headset with surround sound.
+304	Gaming Chair	1080p webcam with built-in microphone.
+305	Webcam	High-speed portable solid-state drive with large capacity.
+306	Tablet	High-performance smartphone with 5G connectivity.
+307	USB-C Charger	High-performance smartphone with 5G connectivity.
+308	Router	Adjustable aluminum laptop stand for better ergonomics.
+309	Gaming Chair	Fast charging USB-C adapter with multiple ports.
+310	USB-C Charger	Wearable smartwatch with health tracking features.
+311	Smartphone	Fast charging USB-C adapter with multiple ports.
+312	Webcam	Ergonomic wireless mouse with adjustable DPI.
+313	Webcam	High-speed portable solid-state drive with large capacity.
+314	Wireless Earbuds	Compact tablet with a high-resolution display.
+315	Gaming Headset	High-speed wireless router with strong signal coverage.
+316	Bluetooth Speaker	1080p webcam with built-in microphone.
+317	Bluetooth Speaker	Adjustable aluminum laptop stand for better ergonomics.
+318	Smartphone	1080p webcam with built-in microphone.
+319	USB-C Charger	Noise-cancelling wireless earbuds with long battery life.
+320	Gaming Headset	Wearable smartwatch with health tracking features.
+321	Laptop	Adjustable monitor arm for dual screens.
+322	Tablet	Lightweight laptop with powerful specifications.
+323	Tablet	Adjustable aluminum laptop stand for better ergonomics.
+324	USB-C Charger	Adjustable aluminum laptop stand for better ergonomics.
+325	Wireless Mouse	Lightweight laptop with powerful specifications.
+326	Portable SSD	Adjustable monitor arm for dual screens.
+327	Tablet	High-performance smartphone with 5G connectivity.
+328	Portable SSD	Ergonomic gaming chair with lumbar support.
+329	Portable SSD	Adjustable monitor arm for dual screens.
+330	Monitor Arm	Comfortable gaming headset with surround sound.
+331	Webcam	RGB mechanical keyboard with customizable keys.
+332	Gaming Chair	Adjustable aluminum laptop stand for better ergonomics.
+333	Smartphone	Comfortable gaming headset with surround sound.
+334	USB-C Charger	Wearable smartwatch with health tracking features.
+335	Wireless Mouse	Adjustable aluminum laptop stand for better ergonomics.
+336	Mechanical Keyboard	Lightweight laptop with powerful specifications.
+337	Wireless Earbuds	Adjustable monitor arm for dual screens.
+338	Laptop Stand	Lightweight laptop with powerful specifications.
+339	Mechanical Keyboard	Ergonomic gaming chair with lumbar support.
+340	Laptop	Fast charging USB-C adapter with multiple ports.
+341	Wireless Mouse	Fast charging USB-C adapter with multiple ports.
+342	Wireless Earbuds	High-speed portable solid-state drive with large capacity.
+343	Smartphone	Fast charging USB-C adapter with multiple ports.
+344	Tablet	Adjustable monitor arm for dual screens.
+345	Wireless Mouse	High-performance smartphone with 5G connectivity.
+346	Smartwatch	Adjustable monitor arm for dual screens.
+347	Laptop	Adjustable monitor arm for dual screens.
+348	Webcam	Portable Bluetooth speaker with deep bass.
+349	Laptop Stand	Noise-cancelling wireless earbuds with long battery life.
+350	Portable SSD	Comfortable gaming headset with surround sound.
+351	Wireless Mouse	Fast charging USB-C adapter with multiple ports.
+352	USB-C Charger	Portable Bluetooth speaker with deep bass.
+353	Gaming Headset	Compact tablet with a high-resolution display.
+354	Tablet	High-speed portable solid-state drive with large capacity.
+355	Laptop Stand	Fast charging USB-C adapter with multiple ports.
+356	USB-C Charger	High-performance smartphone with 5G connectivity.
+357	Gaming Headset	Comfortable gaming headset with surround sound.
+358	Tablet	Noise-cancelling wireless earbuds with long battery life.
+359	Laptop	Portable Bluetooth speaker with deep bass.
+360	Smartphone	Portable Bluetooth speaker with deep bass.
+361	Laptop Stand	High-performance smartphone with 5G connectivity.
+362	Gaming Chair	Fast charging USB-C adapter with multiple ports.
+363	Monitor Arm	Fast charging USB-C adapter with multiple ports.
+364	Laptop	Wearable smartwatch with health tracking features.
+365	Laptop	Wearable smartwatch with health tracking features.
+366	Gaming Chair	Compact tablet with a high-resolution display.
+367	Laptop	RGB mechanical keyboard with customizable keys.
+368	Tablet	High-speed portable solid-state drive with large capacity.
+369	Monitor Arm	Fast charging USB-C adapter with multiple ports.
+370	Portable SSD	High-speed wireless router with strong signal coverage.
+371	Portable SSD	High-performance smartphone with 5G connectivity.
+372	Router	High-speed portable solid-state drive with large capacity.
+373	Wireless Mouse	Lightweight laptop with powerful specifications.
+374	Laptop Stand	Wearable smartwatch with health tracking features.
+375	Portable SSD	Wearable smartwatch with health tracking features.
+376	Webcam	Wearable smartwatch with health tracking features.
+377	Wireless Mouse	Wearable smartwatch with health tracking features.
+378	Gaming Chair	Fast charging USB-C adapter with multiple ports.
+379	Laptop	Adjustable aluminum laptop stand for better ergonomics.
+380	Gaming Chair	1080p webcam with built-in microphone.
+381	Smartwatch	1080p webcam with built-in microphone.
+382	Gaming Headset	High-speed portable solid-state drive with large capacity.
+383	Monitor Arm	Adjustable aluminum laptop stand for better ergonomics.
+384	Gaming Headset	Adjustable aluminum laptop stand for better ergonomics.
+385	Monitor Arm	High-performance smartphone with 5G connectivity.
+386	Wireless Earbuds	High-performance smartphone with 5G connectivity.
+387	Gaming Chair	Compact tablet with a high-resolution display.
+388	Webcam	Wearable smartwatch with health tracking features.
+389	Portable SSD	1080p webcam with built-in microphone.
+390	Wireless Earbuds	Ergonomic wireless mouse with adjustable DPI.
+391	Mechanical Keyboard	Noise-cancelling wireless earbuds with long battery life.
+392	USB-C Charger	Ergonomic gaming chair with lumbar support.
+393	Smartwatch	High-speed portable solid-state drive with large capacity.
+394	Gaming Chair	Wearable smartwatch with health tracking features.
+395	Laptop Stand	Adjustable monitor arm for dual screens.
+396	USB-C Charger	Comfortable gaming headset with surround sound.
+397	USB-C Charger	1080p webcam with built-in microphone.
+398	Bluetooth Speaker	High-performance smartphone with 5G connectivity.
+399	Bluetooth Speaker	RGB mechanical keyboard with customizable keys.
+400	Smartphone	Ergonomic wireless mouse with adjustable DPI.
+401	Gaming Headset	Comfortable gaming headset with surround sound.
+402	Smartwatch	Fast charging USB-C adapter with multiple ports.
+403	Smartwatch	High-speed portable solid-state drive with large capacity.
+404	USB-C Charger	High-speed portable solid-state drive with large capacity.
+405	Mechanical Keyboard	Adjustable aluminum laptop stand for better ergonomics.
+406	Router	Adjustable aluminum laptop stand for better ergonomics.
+407	Gaming Chair	High-speed portable solid-state drive with large capacity.
+408	Bluetooth Speaker	Adjustable monitor arm for dual screens.
+409	Gaming Chair	High-performance smartphone with 5G connectivity.
+410	Portable SSD	RGB mechanical keyboard with customizable keys.
+411	Smartphone	Ergonomic gaming chair with lumbar support.
+412	Webcam	Ergonomic gaming chair with lumbar support.
+413	Portable SSD	Adjustable monitor arm for dual screens.
+414	Tablet	Lightweight laptop with powerful specifications.
+415	Wireless Mouse	Adjustable monitor arm for dual screens.
+416	Portable SSD	High-performance smartphone with 5G connectivity.
+417	Tablet	Noise-cancelling wireless earbuds with long battery life.
+418	Portable SSD	1080p webcam with built-in microphone.
+419	Bluetooth Speaker	Portable Bluetooth speaker with deep bass.
+420	Webcam	Noise-cancelling wireless earbuds with long battery life.
+421	Gaming Chair	Wearable smartwatch with health tracking features.
+422	Smartphone	Compact tablet with a high-resolution display.
+423	Mechanical Keyboard	Noise-cancelling wireless earbuds with long battery life.
+424	Laptop	Ergonomic gaming chair with lumbar support.
+425	Webcam	Compact tablet with a high-resolution display.
+426	Smartwatch	Fast charging USB-C adapter with multiple ports.
+427	Gaming Chair	Comfortable gaming headset with surround sound.
+428	USB-C Charger	Adjustable monitor arm for dual screens.
+429	Smartwatch	Compact tablet with a high-resolution display.
+430	Wireless Mouse	Lightweight laptop with powerful specifications.
+431	Gaming Chair	Adjustable monitor arm for dual screens.
+432	Gaming Headset	Fast charging USB-C adapter with multiple ports.
+433	Portable SSD	Portable Bluetooth speaker with deep bass.
+434	Portable SSD	Comfortable gaming headset with surround sound.
+435	Router	1080p webcam with built-in microphone.
+436	Tablet	Comfortable gaming headset with surround sound.
+437	Tablet	Ergonomic wireless mouse with adjustable DPI.
+438	Portable SSD	Fast charging USB-C adapter with multiple ports.
+439	Router	Ergonomic gaming chair with lumbar support.
+440	Smartphone	Wearable smartwatch with health tracking features.
+441	Webcam	Ergonomic gaming chair with lumbar support.
+442	Laptop Stand	Comfortable gaming headset with surround sound.
+443	Smartphone	Ergonomic gaming chair with lumbar support.
+444	Laptop Stand	Fast charging USB-C adapter with multiple ports.
+445	Smartwatch	Wearable smartwatch with health tracking features.
+446	USB-C Charger	High-performance smartphone with 5G connectivity.
+447	USB-C Charger	Lightweight laptop with powerful specifications.
+448	Gaming Chair	Ergonomic gaming chair with lumbar support.
+449	Bluetooth Speaker	Compact tablet with a high-resolution display.
+450	Bluetooth Speaker	Adjustable aluminum laptop stand for better ergonomics.
+451	Bluetooth Speaker	Ergonomic gaming chair with lumbar support.
+452	Tablet	Ergonomic wireless mouse with adjustable DPI.
+453	Laptop	Fast charging USB-C adapter with multiple ports.
+454	Monitor Arm	Comfortable gaming headset with surround sound.
+455	USB-C Charger	Adjustable monitor arm for dual screens.
+456	Portable SSD	Wearable smartwatch with health tracking features.
+457	USB-C Charger	Ergonomic gaming chair with lumbar support.
+458	Laptop Stand	Adjustable monitor arm for dual screens.
+459	Portable SSD	Wearable smartwatch with health tracking features.
+460	Wireless Earbuds	1080p webcam with built-in microphone.
+461	Laptop	Adjustable aluminum laptop stand for better ergonomics.
+462	Tablet	High-performance smartphone with 5G connectivity.
+463	USB-C Charger	High-speed portable solid-state drive with large capacity.
+464	Tablet	Comfortable gaming headset with surround sound.
+465	Tablet	Comfortable gaming headset with surround sound.
+466	Laptop Stand	High-performance smartphone with 5G connectivity.
+467	Portable SSD	Wearable smartwatch with health tracking features.
+468	Wireless Mouse	Wearable smartwatch with health tracking features.
+469	Gaming Headset	Fast charging USB-C adapter with multiple ports.
+470	Gaming Chair	High-speed portable solid-state drive with large capacity.
+471	Wireless Mouse	Noise-cancelling wireless earbuds with long battery life.
+472	Gaming Chair	High-speed portable solid-state drive with large capacity.
+473	Mechanical Keyboard	High-performance smartphone with 5G connectivity.
+474	Laptop Stand	Adjustable aluminum laptop stand for better ergonomics.
+475	USB-C Charger	Lightweight laptop with powerful specifications.
+476	Wireless Mouse	High-speed portable solid-state drive with large capacity.
+477	Portable SSD	Adjustable aluminum laptop stand for better ergonomics.
+478	Gaming Headset	Adjustable monitor arm for dual screens.
+479	Gaming Headset	Comfortable gaming headset with surround sound.
+480	Wireless Earbuds	1080p webcam with built-in microphone.
+481	Smartphone	Wearable smartwatch with health tracking features.
+482	Mechanical Keyboard	Ergonomic gaming chair with lumbar support.
+483	Portable SSD	1080p webcam with built-in microphone.
+484	Router	Adjustable monitor arm for dual screens.
+485	Bluetooth Speaker	RGB mechanical keyboard with customizable keys.
+486	Monitor Arm	Lightweight laptop with powerful specifications.
+487	Mechanical Keyboard	Ergonomic gaming chair with lumbar support.
+488	Wireless Earbuds	High-performance smartphone with 5G connectivity.
+489	Portable SSD	RGB mechanical keyboard with customizable keys.
+490	Router	High-speed wireless router with strong signal coverage.
+491	Gaming Chair	Ergonomic gaming chair with lumbar support.
+492	Monitor Arm	Wearable smartwatch with health tracking features.
+493	Wireless Earbuds	High-speed portable solid-state drive with large capacity.
+494	Smartphone	Wearable smartwatch with health tracking features.
+495	Portable SSD	RGB mechanical keyboard with customizable keys.
+496	Wireless Mouse	RGB mechanical keyboard with customizable keys.
+497	Router	Portable Bluetooth speaker with deep bass.
+498	Smartwatch	High-speed portable solid-state drive with large capacity.
+499	Monitor Arm	RGB mechanical keyboard with customizable keys.
+500	Wireless Mouse	Comfortable gaming headset with surround sound.
+501	Monitor Arm	Portable Bluetooth speaker with deep bass.
+502	Laptop	Comfortable gaming headset with surround sound.
+503	Smartwatch	Adjustable monitor arm for dual screens.
